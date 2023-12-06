@@ -35,5 +35,7 @@ On our system: "C:/Users/Admin/Anaconda3/envs/Py39_base/Lib/site-packages/opensl
 In case you are unsure of your site packages directory, use the following script to find the location:
 
 import sys
+
 for p in sys.path:
+
     print(p)
