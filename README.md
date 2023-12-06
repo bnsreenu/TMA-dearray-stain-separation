@@ -44,3 +44,5 @@ for p in sys.path:
 
 ![TMA Dearray Code Result](https://github.com/bnsreenu/TMA-dearray-stain-separation/blob/main/images/TMA-dearray.jpg)
 
+### Color Separation (Segregation) Results:
+![Color Separation Result](https://github.com/bnsreenu/TMA-dearray-stain-separation/blob/main/images/segregated.jpg)
