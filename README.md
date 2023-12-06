@@ -20,7 +20,7 @@ Before running the scripts, ensure you have the required dependencies installed.
 
 ```bash
 pip install -r requirements.txt
-
+```
 Please note that openslide installation requires additional steps.  
 
 Ensure OpenSlide is installed by executing the following commands: (It should be already installed if you've executed the above pip command).
