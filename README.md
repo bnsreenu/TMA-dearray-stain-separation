@@ -42,5 +42,5 @@ for p in sys.path:
 
 ## Results Preview
 
-![TMA Dearray Code Result]([url_to_image](https://github.com/bnsreenu/TMA-dearray-stain-separation/blob/main/images/TMA-dearray.jpg)https://github.com/bnsreenu/TMA-dearray-stain-separation/blob/main/images/TMA-dearray.jpg)
+![TMA Dearray Code Result](https://github.com/bnsreenu/TMA-dearray-stain-separation/blob/main/images/TMA-dearray.jpg)
 
