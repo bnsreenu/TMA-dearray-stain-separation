@@ -1,6 +1,6 @@
 # TMA-dearray-stain-separation
 
-This repository contains Python scripts for the analysis of Tissue Microarray (TMA) core images, specifically designed to support the work published in the publication titled: **"GASP-1 overexpression is involved in the development of BPH and progression of early-stage prostatic malignant diseases to prostate cancer."** (Manuscript not submitted yet.)
+This repository contains Python scripts for the analysis of Tissue Microarray (TMA) core images, specifically designed to support the work published in the publication titled: **"GASP-1 overexpression is involved in the development of BPH and progression of early-stage prostatic malignant diseases to prostate cancer."** (Manuscript is currently under review.)
 
 ## Overview
 
